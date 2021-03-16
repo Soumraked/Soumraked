@@ -30,3 +30,7 @@
 <img align="left" title="GitHub" alt="GitHub" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" title="Firebase" alt="Firebase" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" title="Python" alt="Python" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ratzmx1)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratzmx1&show_icons=true)  
