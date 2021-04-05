@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Danilo Ibañez, computer engineering student
-- I am currently working on a React Native application.
+- I am currently working on a Laravel.
 - I'm a fan of javascript.
 - I'm addicted to web programming.
 - I am motivated to learn everything.
